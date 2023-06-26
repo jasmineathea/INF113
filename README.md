@@ -1,5 +1,5 @@
 # INF113
-🖥️ Operativsystemer
+Operativsystemer, Universitetet i Bergen.
 
 ### Assignments
 Obligatoriske oppgaver i faget:
